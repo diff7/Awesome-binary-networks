@@ -1,7 +1,7 @@
 # Awesome-binary-networks
 Currently, there are two main directions to improving  performance of binary nets.
 
-1.    The first direction is how to modify or to adjust some architecture to be suitable for binary weights. Mainly, we want to increase models capacity by adding more weights, but there are some other tricks. Since linear and convolutional layers take most of the computation research mainly focus on binarizing  weights and activations of only these operations,  other parts of the architecture are remained  real valued. This approach reduces a number floating point operations but requires mixed precision computation. Therefore,  it is unclear if such networks can be efficiently executed without specific software and hardware solutions.
+1.    The first direction focuses on modifying or adjusting architectures to fit binary weights. Mainly, we want to increase models capacity by adding more parameters but there are some other tricks too. Since linear and convolutional layers take most of the computation research mainly focus on binarizing  weights and activations only for these operations while other parts are remained  real valued. This approach reduces a number floating point operations but requires mixed precision computation. Therefore,  it is unclear if such networks can be efficiently executed without specific software and hardware solutions.
 
  2.   The second direction is focused on optimization procedure. Since weights are binarized, we need to come up with some solution on how to backpropagate through binarization function, usually sign function.
 
@@ -12,7 +12,7 @@ Papers are split into two parts. Introduction papers, which I recommend reading 
 https://github.com/diff7/Awesome-binary-networks/blob/main/README.md
 
 
-#### READ FIRST
+#### Introduction papers
 
 
 2016 <br>
@@ -35,7 +35,7 @@ https://www.sciencedirect.com/science/article/pii/S0031320320300856 <br>
 
 <hr>
 
-#### READ AFTER
+#### KEEP READING ...
 
 2017 <br>
 Towards Accurate Binary Convolutional Neural Network <br>
