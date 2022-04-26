@@ -12,7 +12,7 @@ Papers are split into two parts. Introduction papers, which I recommend reading 
 https://github.com/diff7/Awesome-binary-networks/blob/main/README.md
 
 
-#### Introduction papers
+### INTRODUCTION PAPERS
 
 
 2016 <br>
@@ -35,7 +35,7 @@ https://www.sciencedirect.com/science/article/pii/S0031320320300856 <br>
 
 <hr>
 
-#### KEEP READING ...
+### KEEP READING ...
 
 2017 <br>
 Towards Accurate Binary Convolutional Neural Network <br>
