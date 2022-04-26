@@ -1,14 +1,15 @@
 # Awesome-binary-networks
+Currently, there are two main directions to improving  performance of binary nets.
 
-Currently, there are two main directions to improving the performance of binary nets.**  
-  
-- The first direction is how to modify or to adjust the architecture to be suitable for binary weights. Mainly, we want to increase models capacity by adding more weights, but it should be done the right way. Since linear and convolutional layers take most of the computation most of the time, research mainly focus on binarizing only weights for these operations and relaxing other parts of the architecture to be real valued, parts such as batch norm, learnable scaling or activation values. This approach reduces computation costs but requires mixed precision computation. Therefore,  it is unclear if such networks can be efficiently executed without specific software and hardware solutions.  
-  
-- The second direction is focused on optimization. Since weights are binarized, we need to come up with some solution on how to backpropagate through binarization function.  
-  
-Unsurprisingly, approaches based on architecture modification show marginally better results.  
-  
-Papers are split into two parts. Introduction papers, which I recommend reading first to get familiar with the problem and all others.
+1.    The first direction is how to modify or to adjust some architecture to be suitable for binary weights. Mainly, we want to increase models capacity by adding more weights, but there are some other tricks. Since linear and convolutional layers take most of the computation research mainly focus on binarizing  weights and activations of only these operations,  other parts of the architecture are remained  real valued. This approach reduces a number floating point operations but requires mixed precision computation. Therefore,  it is unclear if such networks can be efficiently executed without specific software and hardware solutions.
+
+ 2.   The second direction is focused on optimization procedure. Since weights are binarized, we need to come up with some solution on how to backpropagate through binarization function, usually sign function.
+
+Unsurprisingly, approaches based on architecture modification show marginally better results.
+
+Papers are split into two parts. Introduction papers, which I recommend reading first to get familiar with the problem and others not less interesting papers.
+
+https://github.com/diff7/Awesome-binary-networks/blob/main/README.md
 
 
 #### READ FIRST
