@@ -1,9 +1,5 @@
 # Awesome-binary-networks
 
-
-
-#### INTRO 
-
 Currently, there are two main directions to improving the performance of binary nets.**  
   
 - The first direction is how to modify or to adjust the architecture to be suitable for binary weights. Mainly, we want to increase models capacity by adding more weights, but it should be done the right way. Since linear and convolutional layers take most of the computation most of the time, research mainly focus on binarizing only weights for these operations and relaxing other parts of the architecture to be real valued, parts such as batch norm, learnable scaling or activation values. This approach reduces computation costs but requires mixed precision computation. Therefore,  it is unclear if such networks can be efficiently executed without specific software and hardware solutions.  
