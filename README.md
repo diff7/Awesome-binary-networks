@@ -25,13 +25,11 @@ https://arxiv.org/abs/1602.02830
 
 2016 <br>
 XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks <br>
-[Mohammad Rastegari](https://arxiv.org/search/cs?searchtype=author&query=Rastegari%2C+M), [Vicente Ordonez](https://arxiv.org/search/cs?searchtype=author&query=Ordonez%2C+V), [Joseph Redmon](https://arxiv.org/search/cs?searchtype=author&query=Redmon%2C+J), [Ali Farhadi](https://arxiv.org/search/cs?searchtype=author&query=Farhadi%2C+A) <br>
 https://arxiv.org/abs/1603.05279
 
 
 2017 <br>
 The High-Dimensional Geometry of Binary Neural Networks <br>
-[Alexander G. Anderson](https://arxiv.org/search/cs?searchtype=author&query=Anderson%2C+A+G), [Cory P. Berg](https://arxiv.org/search/cs?searchtype=author&query=Berg%2C+C+P) <br>
 https://arxiv.org/pdf/1705.07199.pdf
 
 2020 <br>
@@ -44,7 +42,6 @@ https://www.sciencedirect.com/science/article/pii/S0031320320300856 <br>
 
 2017 <br>
 Towards Accurate Binary Convolutional Neural Network <br>
-[Xiaofan Lin](https://arxiv.org/search/cs?searchtype=author&query=Lin%2C+X), [Cong Zhao](https://arxiv.org/search/cs?searchtype=author&query=Zhao%2C+C), [Wei Pan](https://arxiv.org/search/cs?searchtype=author&query=Pan%2C+W) <br>
 https://arxiv.org/abs/1711.11294 <br>
  
 
@@ -54,12 +51,10 @@ https://arxiv.org/abs/1808.00278 <br>
 
 2018 <br>
 Binary Ensemble Neural Network: More Bits per Network or More Networks per Bit? <br>
-[Shilin Zhu](https://arxiv.org/search/cs?searchtype=author&query=Zhu%2C+S), [Xin Dong](https://arxiv.org/search/cs?searchtype=author&query=Dong%2C+X), [Hao Su](https://arxiv.org/search/cs?searchtype=author&query=Su%2C+H) <br>
 https://arxiv.org/pdf/1806.07550.pdf <br>
 
 2019 <br>
 Structured Binary Neural Networks for Image Recognition <br>
-[Bohan Zhuang](https://arxiv.org/search/cs?searchtype=author&query=Zhuang%2C+B), [Chunhua Shen](https://arxiv.org/search/cs?searchtype=author&query=Shen%2C+C), [Mingkui Tan](https://arxiv.org/search/cs?searchtype=author&query=Tan%2C+M), [Peng Chen](https://arxiv.org/search/cs?searchtype=author&query=Chen%2C+P), [Lingqiao Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu%2C+L), [Ian Reid](https://arxiv.org/search/cs?searchtype=author&query=Reid%2C+I) <br>
 https://arxiv.org/abs/1909.09934 <br>
 
 2019 <br>
