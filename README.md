@@ -9,8 +9,6 @@ Unsurprisingly, approaches based on architecture modification show marginally be
 
 Papers are split into two parts. Introduction papers, which I recommend reading first to get familiar with the problem and others not less interesting papers.
 
-https://github.com/diff7/Awesome-binary-networks/blob/main/README.md
-
 
 ### INTRODUCTION PAPERS
 
