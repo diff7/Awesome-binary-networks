@@ -107,3 +107,7 @@ Binarizing MobileNet via Evolution-based Searching <br>
 https://arxiv.org/abs/2005.06305 <br>
 
 
+2020 <br>
+ShiftAddNet: A Hardware-Inspired Deep Network <br>
+https://proceedings.neurips.cc/paper/2020/hash/1cf44d7975e6c86cffa70cae95b5fbb2-Abstract.html <br>
+
