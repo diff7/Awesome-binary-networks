@@ -102,8 +102,8 @@ Block Walsh-Hadamard Transform Based Binary Layers in Deep Neural Networks <br>
 https://arxiv.org/abs/2201.02711 <br>
 
 
-
-
-
+2202 <br>
+Binarizing MobileNet via Evolution-based Searching
+https://arxiv.org/abs/2005.06305
 
 
