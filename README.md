@@ -103,7 +103,7 @@ https://arxiv.org/abs/2201.02711 <br>
 
 
 2202 <br>
-Binarizing MobileNet via Evolution-based Searching
-https://arxiv.org/abs/2005.06305
+Binarizing MobileNet via Evolution-based Searching <br>
+https://arxiv.org/abs/2005.06305 <br>
 
 
