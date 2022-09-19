@@ -62,12 +62,6 @@ https://arxiv.org/abs/2002.00555 <br>
  
 2020 <br>
 ReActNet: Towards Precise Binary Neural Network with Generalized Activation Functions <br>
-https://arxiv.org/abs/2003.03488 <br>
-https://github.com/liuzechun/ReActNet <br>
-
-
-2020 <br>
-ReActNet: Towards Precise Binary Neural Network with Generalized Activation Functions <br>
 https://link.springer.com/chapter/10.1007/978-3-030-58568-6_9 <br>
 
 
