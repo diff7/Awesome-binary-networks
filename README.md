@@ -111,3 +111,5 @@ https://arxiv.org/abs/2001.02786
 2020 <br> BINARYDUO: REDUCING GRADIENT MISMATCH IN BI-NARY ACTIVATION NETWORK BY COUPLING BINARY ACTIVATIONS <br>
 https://arxiv.org/pdf/2002.06517.pdf
 
+2019 Back to Simplicity: How to Train Accurate BNNs from Scratch?
+https://arxiv.org/pdf/1906.08637.pdf
